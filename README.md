@@ -768,3 +768,5 @@ This lib is based on "QRCode for JavaScript" which Kazuhiko Arase thankfully MIT
 
 The word "QR Code" is registered trademark of:<br>
 DENSO WAVE INCORPORATED
+
+This repository was forked/cloned and modified as part of an internship GitHub learning exercise.
