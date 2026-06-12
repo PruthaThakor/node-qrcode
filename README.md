@@ -770,3 +770,5 @@ The word "QR Code" is registered trademark of:<br>
 DENSO WAVE INCORPORATED
 
 This repository was forked/cloned and modified as part of an internship GitHub learning exercise.
+
+we can add color in which we want QR code
